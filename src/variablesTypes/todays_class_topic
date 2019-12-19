@@ -1,0 +1,83 @@
+Today we will talk about 
+
+Class
+Premetive data types 
+=> int 
+=> double
+=> Char
+=> boolean
+=> String 
+ 
+ 
+Variables
+ => Instance
+ => Class
+ => Local
+ 
+ Creates a object of the class by keyword 'new'
+ Constructor is a block of code that initializes the newly created object. 
+ 
+ public class Hello {
+   String name;
+   //Constructor
+   Hello(){
+      this.name = "BeginnersBook.com";
+   }
+   public static void main(String[] args) {
+      Hello ob = new Hello();
+      System.out.println(ob.name);
+   }
+}
+
+
+ Comments 
+ 
+ Methods
+ 
+ Operators
+ 
+ => airthametic
+ =>  && , ||  == != > < => 
+ 
+ Java Basics due on Class 
+ 
+ = method overloading
+ = method overriding 
+ 
+ Operators 
+ if else statement
+ for loop
+ 
+ ---- Arrays 
+ 
+ Arrays are collection of same data types
+ Arrays hold more than one objects 
+ There are two type of array, One dimensional and two dimension 
+ Array always starts counting by index 0
+ 
+ // downlaod gecko driver from 
+ 
+ https://github.com/mozilla/geckodriver/releases
+ 
+ http://www.automationtestinghub.com/selenium-3-0-launch-firefox-with-geckodriver/
+ 
+ download latest chrome driver
+ 
+ http://chromedriver.storage.googleapis.com/index.html?path=2.28/
+ 
+ http://www.seleniumhq.org/download/
+ 
+ // Practice website
+ 
+ https://the-internet.herokuapp.com/
+
+
+
+// Switch TO frame 
+// alert 
+
+
+
+public static void main(String[] args) {	
+				
+	}
